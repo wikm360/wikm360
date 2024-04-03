@@ -52,6 +52,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/wikm360/wikm360/output/snake.svg" alt="Snake animation" />
-
 ###
