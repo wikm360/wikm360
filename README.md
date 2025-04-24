@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wikm360" alt="wikm360" /></a> </p>
 
-- 🔭 I’m currently working on [Xray-client](https://github.com/wikm360/xray-client)
+- 🔭 I’m currently working on My Self
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **NLP**
 
 - 🤝 I’m looking for help with [Xray-client](https://github.com/wikm360/xray-client)
 
